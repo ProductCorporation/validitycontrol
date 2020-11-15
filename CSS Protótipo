@@ -1,5 +1,9 @@
 ### CSS DO PROTÓTIPO
 
+### TELAS
+
+#### .1 Proporção/Fundo de todas as telas
+
 position: relative;
 width: 375px;
 height: 812px;

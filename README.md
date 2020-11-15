@@ -1,4 +1,4 @@
-# HTCONTROL
+# VALIDITYCONTROL
 Projeto integrador/tcc
 
 ### 1. APRESENTAÇÃO

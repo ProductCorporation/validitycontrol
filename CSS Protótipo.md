@@ -24,18 +24,10 @@ top: 154px;
 background: url(beira alta.png);
 border-radius: 150px;
 
-#### 1.3 Imagem
-
-position: absolute;
-width: 252px;
-height: 252px;
-left: 61px;
-top: 154px;
-
 background: url(beira alta.png);
 border-radius: 150px;
 
-#### 1.4 Botão Entrar
+#### 1.3 Botão Entrar
 
 position: absolute;
 width: 307px;
@@ -43,12 +35,14 @@ height: 69px;
 left: 34px;
 top: 490px;
 
-#### 1.5 Botão Cadastro
+#### 1.4 Botão Cadastro
 
 position: absolute;
 width: 307px;
 height: 69px;
 left: 34px;
 top: 582px;
+
+####____________________________________________
 
 

@@ -22,7 +22,7 @@ Teremos ter um pessoa responsável em cada setor com esse aplicativo, onde adici
 - Funcionário
 
 #### 2.2 - FUNCIONAL 
-- [ ] Cadastro de Funcionários (CRUD completo); 
+- [x] Cadastro de Funcionários (CRUD completo); 
 - [ ] Inclusão de Produtos e Remoção de Produtos (IMC);
 - [ ] Bloquear e desbloquear Funcionário; 
 - [ ] Envio de notificação em caso do produto estiver próximo a validade; 

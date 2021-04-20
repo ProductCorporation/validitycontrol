@@ -21,7 +21,7 @@ Teremos ter um pessoa responsável em cada setor com esse aplicativo, onde adici
 - Gerente
 - Funcionário
 
-![Modelo Relacional](https://prnt.sc/11pysj1)
+![Modelo Relacional](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2020/06/github.jpg)
 
 #### 2.2 - FUNCIONAL 
 - [x] Cadastro de Funcionários (CRUD completo); 

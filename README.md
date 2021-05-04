@@ -8,6 +8,8 @@ A ideia é otimizar o tempo dos funcionários que são responsáveis por cada se
 
 Teremos ter um pessoa responsável em cada setor com esse aplicativo, onde adicionaríamos líder que irá poder fazer todos os monitoramento e o controle de preço.
 
+![Logo](https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true)
+
 ### 2. EQUIPE
 |Nome|Papel|Gituser|
 |--|--|--|
@@ -21,10 +23,8 @@ Teremos ter um pessoa responsável em cada setor com esse aplicativo, onde adici
 - Gerente
 - Funcionário
 
-![Modelo Relacional](https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true)
 
 #### 2.2 - FUNCIONAL 
-- [x] Cadastro de Funcionários (CRUD completo); 
 - [ ] Inclusão de Produtos e Remoção .de Produtos (IMC);
 - [ ] Bloquear e desbloquear Funcionário; 
 - [ ] Envio de notificação em caso do produto estiver próximo a validade; 

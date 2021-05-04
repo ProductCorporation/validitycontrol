@@ -4,9 +4,9 @@ Projeto integrador/tcc
 ### 1. APRESENTAÇÃO
 Este é um projeto de apoio didático composto por um conjunto de atividades práticas relacionadas a temas das disciplinas de engenharia de software, tais como: análise e programação orientada a objetos, padrões de projeto, modelagem visual com UML e algumas práticas ágeis (como refactoring e testes unitários);
 
-A ideia é otimizar o tempo dos funcionários que são responsáveis por cada setor, irá ter o login senha. exemplo: um funcionário irá ter responsabilidade do setor para conferir o prazo de validade das bebidas e temperatura da geladeira no qual irá medir temperatura de manhã de tarde.
+A ideia é otimizar o tempo dos funcionários que são responsáveis por cada setor. exemplo: um funcionário irá ter responsabilidade do setor para conferir o prazo de validade das bebidas e temperatura da geladeira no qual irá medir temperatura de manhã de tarde.
 
-Teremos ter um pessoa responsável em cada setor com esse aplicativo, onde adicionaríamos líder que irá poder fazer todos os monitoramento e o controle de preço.
+Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adicionaríamos líder que irá poder fazer todos os monitoramento e o controle de preço.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true" width="400">
 

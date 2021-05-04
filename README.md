@@ -8,8 +8,7 @@ A ideia é otimizar o tempo dos funcionários que são responsáveis por cada se
 
 Teremos ter um pessoa responsável em cada setor com esse aplicativo, onde adicionaríamos líder que irá poder fazer todos os monitoramento e o controle de preço.
 
-![Logo](https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true)
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true" width="250">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true" width="400">
 
 
 ### 2. EQUIPE

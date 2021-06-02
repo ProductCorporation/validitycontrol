@@ -36,12 +36,34 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - [ ] Consultar ao estoque;
 - [ ] Verificar a disponibilidade de um produto;
 
+
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/Diagrama.png" width="650">
+
+
 #### 2.3 - NÃO FUNCIONAL 
 - [ ] Na inclusão de um novo produto será necessário informar obrigatoriamente a **nome, data de validade**.
 - [ ] Antes de ser removido do sistema, um produto deve estar vendido. Um produto removido não pode mais ser reintegrado ao sistema.
 - [ ] Informar detalhes do produto **fornecedor**.
 - [ ] Sistema de cargo exemplo **gerente, funcionário**.
 - [ ] Produtos adicionados podem ser editados apenas com a permissão do gerente.
+
+#### Abaixo o diagrama de classe de negocio.
+
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/Diagrama%20classe%20de%20negocio.png" width="800">
+
+
+<hr>
+
+
+#### Abaixo o diagrama de classe de negocio, apresentações no modelo concentual e lógico.
+
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/Conceitual_1.png" width="1200">
+
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/L%C3%B3gico_1.png" width="1200">
+
+
+<hr>
+
 
 #### 2.4 - TÉCNICA 
 

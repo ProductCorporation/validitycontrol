@@ -61,7 +61,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 <hr>
 
 
-#### Abaixo o diagrama de classe de negocio, apresentações no modelo concentual e lógico.
+#### Abaixo o diagrama do banco de dados, apresentações no modelo concentual e lógico.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Conceitual_1.png" width="1200">
 

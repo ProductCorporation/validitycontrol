@@ -37,6 +37,8 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - [ ] Verificar a disponibilidade de um produto;
 
 
+#### Caso de uso.
+
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Diagrama.png" width="650">
 
 

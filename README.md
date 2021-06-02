@@ -71,7 +71,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 <hr>
 
 
-#### 2.4 - TÉCNICA 
+### RESULTADOS 
 
 ### 3. OUTRAS INFORMAÇÕES
 

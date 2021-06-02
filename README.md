@@ -8,7 +8,7 @@ A ideia é otimizar o tempo dos funcionários que são responsáveis por cada se
 
 Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adicionaríamos líder que irá poder fazer todos os monitoramento e o controle de preço.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/LOGO.png?raw=true" width="400">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/LOGO.png?raw=true" width="400">
 
 
 ### 2. EQUIPE
@@ -37,7 +37,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - [ ] Verificar a disponibilidade de um produto;
 
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/Diagrama.png" width="650">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Diagrama.png" width="650">
 
 
 #### 2.3 - NÃO FUNCIONAL 
@@ -49,7 +49,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 #### Abaixo o diagrama de classe de negocio.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/Diagrama%20classe%20de%20negocio.png" width="800">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Diagrama%20classe%20de%20negocio.png" width="800">
 
 
 <hr>
@@ -57,9 +57,9 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 #### Abaixo o diagrama de classe de negocio, apresentações no modelo concentual e lógico.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/Conceitual_1.png" width="1200">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Conceitual_1.png" width="1200">
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/L%C3%B3gico_1.png" width="1200">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/L%C3%B3gico_1.png" width="1200">
 
 
 <hr>

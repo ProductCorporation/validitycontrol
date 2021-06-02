@@ -84,7 +84,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Adicionar%20produtos.jpg" width="380">
 
-- E por fim a tela da base de dados, onde as informações ficam armazenadas, com a descrição, uma coluna de status facilitando a visualização, com um filtro na navbar para procurar produtos ativos, inativos que estão proximo do vencimento e produtos que já passaram da data de vencimento.
+- E por fim a tela da base de dados, onde as informações ficam armazenadas, com a descrição; Uma coluna de status facilitando a visualização, com um filtro na navbar para procurar produtos ativos, inativos que estão proximo do vencimento e produtos que já passaram da data de vencimento.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Dados.jpg" width="1400">
 

@@ -78,15 +78,15 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - Na primeira imagem é a tela inicial de "login" tem apenas um botão de entrar por enquanto.
 - Na segunda imagem é exclusiva para os funcionários responsaveis, incluindo uma navbar em cima para poder sair, e dois botões, um para adicionar produto e outro para ver os arquivos.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Tela%20Entrar.jpg" width="380">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Index.jpg" width="380">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Tela%20Entrar.jpg" width="300">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Index.jpg" width="300">
 
 - Agora a tela de adicionar produtos onde pode colocar nome, categoria, quantidade, manipulação e vencimento.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Adicionar%20produtos.jpg" width="380">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Adicionar%20produtos.jpg" width="300">
 
 - E por fim a tela da base de dados, onde as informações ficam armazenadas, com a descrição; Uma coluna de status facilitando a visualização, com um filtro na navbar para procurar produtos ativos, inativos que estão proximo do vencimento e produtos que já passaram da data de vencimento.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Dados.jpg" width="1400">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Dados.jpg" width="1800">
 
 
 

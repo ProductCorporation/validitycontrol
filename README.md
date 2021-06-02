@@ -37,6 +37,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - [ ] Verificar a disponibilidade de um produto;
 
 <hr>
+
 #### Caso de uso.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Diagrama.png" width="650">
@@ -50,7 +51,8 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - [ ] Sistema de cargo exemplo **gerente, funcionário**.
 - [ ] Produtos adicionados podem ser editados apenas com a permissão do gerente.
 
-<hr> </hr>
+<hr>
+
 #### Abaixo o diagrama de classe de negocio.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Diagrama%20classe%20de%20negocio.png" width="800">

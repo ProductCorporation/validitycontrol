@@ -76,7 +76,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 ## Abaixo uma sequência de imagens que mostram o protótipo desenvolvido.
 
 - Na primeira imagem é a tela inicial de "login" tem apenas um botão de entrar por enquanto.
-- Na segunda imagem é exclusiva para os funcionários responsaveis, incluindo uma navbar em cima para poder sair, e dois botões, um para adicionar produto e outro para ver os arquivos.
+- Na segunda imagem é exclusiva para os funcionários responsáveis, incluindo uma navbar em cima para poder sair, e dois botões, um para adicionar produto e outro para ver os arquivos.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Tela%20Entrar.jpg" width="300">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/Index.jpg" width="300">
 

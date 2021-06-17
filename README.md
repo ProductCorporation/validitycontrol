@@ -26,14 +26,13 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 
 #### 2.2 - FUNCIONAL 
-- [ ] Inclusão de Produtos e Remoção .de Produtos (IMC);
+- [x] Inclusão de Produtos e Remoção de Produtos (IMC);
 - [ ] Bloquear e desbloquear Funcionário; 
 - [ ] Envio de notificação em caso do produto estiver próximo a validade; 
 - [ ] Envio de notificação onde receberá o controle os pedidos do seasa; 
 - [ ] Fazer a leitura do código de barras;
 - [ ] Controle de saída de produtos preciso;
-- [ ] Precificação automática dos produtos;
-- [ ] Consultar ao estoque;
+- [x] Consultar ao estoque;
 - [ ] Verificar a disponibilidade de um produto;
 
 <hr>
@@ -45,7 +44,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 <hr>
 
 #### 2.3 - NÃO FUNCIONAL 
-- [ ] Na inclusão de um novo produto será necessário informar obrigatoriamente a **nome, data de validade**.
+- [x] Na inclusão de um novo produto será necessário informar obrigatoriamente a **nome, data de validade**.
 - [ ] Antes de ser removido do sistema, um produto deve estar vendido. Um produto removido não pode mais ser reintegrado ao sistema.
 - [ ] Informar detalhes do produto **fornecedor**.
 - [ ] Sistema de cargo exemplo **gerente, funcionário**.

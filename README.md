@@ -79,7 +79,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20entrar.jpg" width="400">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20inicial.jpg" width="400">
 
-- Tela de adicionar produtos onde pode adicionar nome, categoria, quantidade e vencimento.
+- Tela de adicionar produtos onde pode adicionar nome, quantidade, categoria e vencimento.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20adicionar%20produtos.jpg" width="400">
 

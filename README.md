@@ -77,15 +77,15 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 - Na primeira imagem é a tela inicial de "login" tem apenas um botão de entrar por enquanto.
 - Na segunda imagem é exclusiva para os funcionários responsáveis, incluindo uma navbar em cima para poder sair, e dois botões, um para adicionar produto e outro para ver os arquivos.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20entrar.jpg" width="300">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20inicial.jpg" width="300">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20entrar.jpg" width="400">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20inicial.jpg" width="400">
 
 - Tela de adicionar produtos onde pode adicionar nome, categoria, quantidade e vencimento.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20adicionar%20produtos.jpg" width="300">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20adicionar%20produtos.jpg" width="400">
 
 - E por fim a tela de adicionar produto com a base de dados, com as informações armazenadas.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20produto%20adicionado.jpg" width="1800">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20produto%20adicionado.jpg" width="400">
 
 
 

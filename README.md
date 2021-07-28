@@ -44,7 +44,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 <hr>
 
 #### 2.3 - NÃO FUNCIONAL 
-- [x] Na inclusão de um novo produto será necessário informar obrigatoriamente a **nome, data de validade**.
+- [ ] Na inclusão de um novo produto será necessário informar obrigatoriamente a **nome, data de validade**.
 - [ ] Antes de ser removido do sistema, um produto deve estar vendido. Um produto removido não pode mais ser reintegrado ao sistema.
 - [ ] Informar detalhes do produto **fornecedor**.
 - [ ] Sistema de cargo exemplo **gerente, funcionário**.
@@ -75,17 +75,17 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 ## Abaixo uma sequência de imagens que mostram o protótipo desenvolvido.
 
 - Na primeira imagem é a tela inicial de "login" tem apenas um botão de entrar por enquanto.
-- Na segunda imagem é exclusiva para os funcionários responsáveis, incluindo uma navbar em cima para poder sair, e dois botões, um para adicionar produto e outro para ver os arquivos.
+- Na segunda imagem é exclusiva para os funcionários responsáveis, incluindo uma navbar em cima para poder sair, e dois botões, um para adicionar produto e outro para ver os arquivos detalhados, porém a tabela não é funcional e sim como queremos construir futuramente.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20entrar.jpg" width="400">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20inicial.jpg" width="400">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/entrar.jpg" width="400">  <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/telainicial.jpg" width="400">
 
-- Tela de adicionar produtos onde pode adicionar nome, quantidade, categoria e vencimento.
+- Tela do botão de adicionar produtos onde é adicionado nome, categoria, quantidade  e vencimento.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20adicionar%20produtos.jpg" width="400">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/botaoadicionarproduto.jpg" width="400">
 
 - E por fim a tela de adicionar produto com a base de dados, com as informações armazenadas.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/tela%20produto%20adicionado.jpg" width="400">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/telaadicionarproduto.jpg" width="400">
 
 
 

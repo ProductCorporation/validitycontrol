@@ -1,106 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+    <head>
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="css/entrar.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap" rel="stylesheet">
 
-<head>
-    <script type="text/javascript">
-        function time() {
-            today = new Date();
-            h = today.getHours();
-            m = today.getMinutes();
-            s = today.getSeconds();
-            document.getElementById('txt').innerHTML = h + ":" + m + ":" + s;
-            setTimeout('time()', 500);
-        }
-    </script>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Validity Control</title>
+        <title>VT Control</title>
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Staatliches&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,700;1,400&display=swap"
-        rel="stylesheet">
+    </head>
+    <body>
 
-    <script src="js/script1.js"></script>
-</head>
-
-<body onload="time()">
-
-    <header>
-        <h1>Validity Control</h1>
-    </header>
-
-    <main>
-        <div class="relogio" id="txt"></div>
-        <div class="title">
-            <h2>Produtos</h2> 
-            <span>Lista de produtos da loja</span>
-            
+        <div id="telaLogin" class="page page-active">
+            <div class="painel-login">
+                <div class="login-header">
+                    <img class="logoinicio" src="img/LOGO.png" alt="">
+                </div>
+            </div>
+            <div>
+                    <button onclick='window.location.href="telainicial.html"' class="btn btn-primary targetPage">E n t r a r</button>
+            </div>
         </div>
 
-        <div class="card">
-            <div class="lineimput">
-                <label>Produto</label>
-                <input type="text" id="produto" placeholder="Nome do produto">
-            </div>
-            <div class="lineimput">
-                <label>Quantidade</label>
-                <input type="number" id="quantidade" placeholder="Quantidade">
-            </div>
-            
-            <div class="lineimput">
-                <label>Categoria</label>
-                <select  class="form-select" aria-label="Default select example" placeholder="Selecionar..">
-                    <option selected>Selecionar..</option>
-                    <option value="1">Café da manhã/Padaria</option>
-                    <option value="2">Mercearia em geral e enlatados</option>
-                    <option value="3">Bebidas</option>
-                    <option value="3">Carnes e frios</option>
-                    <option value="3">Produtos de limpeza/Utilidades</option>
-                    <option value="3">Higiene pessoal</option>
-                    <option value="3">Frutas e legumes</option>
-                    <option value="3">Pet</option>
-                  </select>
-            </div>
-            
-            <div class="lineimput">
-                <label>Data de validade</label>
-                <input type="date" id="date" placeholder="Data de validade">
-            </div>
-            <button onclick="produto.salvar()" id="btn1">Salvar</button>
-            <button onclick="produto.cancelar()">Cancelar</button>
-        </div>
 
-        <div class="content">
-            <table border="1">
-                <thead>
-                    <th class="center">ID</th>
-                    <th>Nome</th>
-                    <th>Quant</th>
-                    <th>Data</th>
-                    <th class="center">Ações</th>
-                </thead>
-                <tbody id="tbody">
-
-                </tbody>
-            </table>
-        </div>
-
-        <div class="relogio" id="txt"></div>
-
-        <div>
-            <button onclick='window.location.href="telainicial.html"' class="content"
-                style= "padding: 15px 20px; margin-top:40px; text-align:center;">V o l t a r</button>
-        </div>
-
-    </main>
-
-
-</body>
-
-
+        
+        <script src="cordova.js"></script>
+        <script src="js/index.js"></script>
+        <script src="js/functions.js"></script>
+        <script src="js/login.js"></script>
+    </body>
+    
 </html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script type="text/javascript">
+    function time() {
+        today = new Date();
+        h = today.getHours();
+        m = today.getMinutes();
+        s = today.getSeconds();
+        document.getElementById('txt').innerHTML = h + ":" + m + ":" + s;
+        setTimeout('time()', 500);
+    }
+</script>
+
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Validity Control</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Staatliches&display=swap" rel="stylesheet">
+  
+</head>
+<body onload="time()">
+  
+  <div class="container">
+    
+    <header>
+      <h3 style="text-align: center">Validity Control</h3>
+    </header>
+    
+    <div class="table-wrapper">
+      <table class="table-produtos">
+        <tr>
+          <th>Nome</th>
+          <th>Categoria</th>
+          <th>Quant</th>
+          <th>Data</th>
+          <th>Ação</th>
+        </tr>
+      </table>
+      <button class="btn btn-add">Adicionar produto</button>
+    </div>
+    <!-- Add Modal -->
+    <div class="add-modal modal-wrapper">
+      <div class="modal">
+        <div class="modal-header"><h3>Adicionar novo produto</h3></div>
+        <div class="modal-body">
+          <form class="form" autocomplete="off">
+            <label>Nome do produto</label>
+            <input type="text" name="nomeProduto" placeholder="Nome">
+            <label>Categoria</label>
+            <input type="text" name="categoriaProduto" placeholder="Categoria">
+            <label>Quantidade</label>
+            <input type="number" name="quantProduto" placeholder="Quantidade">
+            <label>Data de Validade</label>
+            <input type="date" name="dataProduto" placeholder="Data">
+            <button class="btn btn-modal">Salvar</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- Edit Modal -->
+    <div class="edit-modal modal-wrapper">
+      <div class="modal">
+        <div class="modal-header"><h3>Editar Produto</h3></div>
+        <div class="modal-body">
+          <form class="form" autocomplete="off">
+            <input type="text" name="nomeProduto" placeholder="Nome">
+            <input type="text" name="categoriaProduto" placeholder="Categoria">
+            <input type="number" name="quantProduto" placeholder="Quantidade">
+            <input type="date" name="dataProduto" placeholder="Data">
+            <button class="btn btn-modal">Salvar</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<hr style="margin-top: 20px;"> </hr>
+
+  <div>
+    <button onclick='window.location.href="telainicial.html"' class="btn btn-voltar"
+        style= "background-color: rgb(212, 16, 16); margin-top: 25px">V o l t a r</button>
+  </div>
+
+  <div class="relogio" id="txt"></div>
+
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+     
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-firestore.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyD54s8J_utv9h7r4pT4F0mRISbKc1Jh1v0",
+    authDomain: "validitycontrol-1c9fb.firebaseapp.com",
+    projectId: "validitycontrol-1c9fb",
+    storageBucket: "validitycontrol-1c9fb.appspot.com",
+    messagingSenderId: "251697551210",
+    appId: "1:251697551210:web:72445e2b2c6f55b4853713"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.firestore();
+</script>
+
+
+  <script src="js/script.js"></script>
+</body>
+</html>

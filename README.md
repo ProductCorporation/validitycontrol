@@ -54,7 +54,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 #### Abaixo o diagrama de classe de negocio.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Diagrama%20classe%20de%20negocio.png" width="800">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/classe%20de%20negocio.png" width="800">
 
 
 <hr>
@@ -62,9 +62,9 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 #### Abaixo o diagrama do banco de dados, apresentações no modelo concentual e lógico.
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Conceitual_1.png" width="1200">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/Conceitual_1.png" width="1100">
 
-<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/L%C3%B3gico_1.png" width="1200">
+<img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/L%C3%B3gico_1.png" width="1100">
 
 
 <hr>

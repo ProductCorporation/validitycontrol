@@ -83,7 +83,7 @@ Teremos uma pessoa responsável em cada setor com esse aplicativo, onde adiciona
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/botaoadicionarproduto.jpg" width="400">
 
-- E por fim a tela de adicionar produto com a base de dados, com as informações armazenadas.
+- E por fim a tela de adicionar produto com a base de dados, com as informações armazenadas e podendo editar/deletar.
 
 <img src="https://github.com/ProductCorporation/validitycontrol/blob/master/img/prints/telaadicionarproduto.jpg" width="400">
 
